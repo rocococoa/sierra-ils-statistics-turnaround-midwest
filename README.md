@@ -5,6 +5,13 @@
 ## Summary
 This automated report captures performance metrics for the vendor Midwest, specifically tracking fulfillment turnaround times from order placement to delivery for the previous quarter. 
 
+## Features and Deliverables
+
+**Automated Email:**
+
+<img width="991" height="593" alt="Quarterly Midwest Turnaround" src="https://github.com/user-attachments/assets/60098021-d035-44ac-aabd-1c08110e15a3" />
+
+
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
 
