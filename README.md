@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Summary
-This automated report captures performance metrics for the vendor Midwest, specifically tracking fulfillment turnaround times from order placement to delivery for the previous quarter. 
+**What it does:** This automated report captures performance metrics for the vendor Midwest, specifically tracking fulfillment turnaround times from order placement to delivery for the previous quarter. 
+
+**Impact:** The delivered data points are added to a vender turnaround time tracker, which is used to monitor and track performance trends of collection vendors.
 
 ## Features and Deliverables
 
@@ -14,6 +16,8 @@ This automated report captures performance metrics for the vendor Midwest, speci
 **Attached Excel Report:**
 
 <img width="672" height="287" alt="Turnaround-Midwest" src="https://github.com/user-attachments/assets/1a92ace2-a3cb-46e7-817a-87b831b9eb7d" />
+
+Collection vendor quarterly turnaround times are logged in a tracker to monitor performance trends over time.
 
 **Vendor Turnaround Tracker:**
 
