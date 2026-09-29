@@ -5,7 +5,7 @@
 ## Summary
 **What it does:** This automated report captures performance metrics for the vendor Midwest, specifically tracking fulfillment turnaround times from order placement to delivery for the previous quarter. 
 
-**Impact:** The delivered data points are added to a vender turnaround time tracker, which is used to monitor and track performance trends of collection vendors.
+**Impact:** The delivered data points are added to a vendor turnaround time tracker, which is used to monitor and track performance trends of collection vendors.
 
 ## Features and Deliverables
 
